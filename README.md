@@ -2,6 +2,8 @@
 
 Teaching materials for the workshop **"Network Analysis in the Humanities"** organised by **DigiTS (Center for Digital Text Scholarship)** at the **University of Tartu**.
 
+Participant's relations: https://docs.google.com/spreadsheets/d/1U0QCUtkUxvuSago7Sm7cMpcDJ-8KTrsQ/edit?rtpof=true&sd=true Please fill your column! Add an "X" if you know the person in a row personally! 
+
 ## Workshop information
 
 - **Dates:** May 6-8, 2026
