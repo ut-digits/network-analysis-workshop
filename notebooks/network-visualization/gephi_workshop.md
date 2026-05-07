@@ -1,7 +1,7 @@
 
 # Network Visualization with Gephi
 
-This document -- which is not a real notebook, but rather a short narrative -- contains the stuff to be introduced at the Network Analysis Workshop, organized by the University of Tartu and the project DigiTS on May 6--8, 2026. The current file discusses some functionalities of the program Gephi, which is a standalone open-source software to manipulate and visualize networks. See here for more details: [https://gephi.org/](https://gephi.org/). To download a version matching your operating system, go here: [https://gephi.org/desktop/](https://gephi.org/desktop/). A light in-the-browser version also exists, but its functionalities might be at times compromised.  
+This document – which is not even a real notebook, but rather a short narrative – contains the stuff to be introduced at the Network Analysis Workshop, organized by the University of Tartu and the project DigiTS on May 6–8, 2026. The current file discusses some functionalities of the program Gephi, which is a standalone open-source software to manipulate and visualize networks. See here for more details: [https://gephi.org/](https://gephi.org/). To download a version matching your operating system, go here: [https://gephi.org/desktop/](https://gephi.org/desktop/). A light in-the-browser version also exists, but its functionalities might be at times compromised.  
 
 
 ## Data and files
