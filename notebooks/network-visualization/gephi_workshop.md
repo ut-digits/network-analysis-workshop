@@ -11,7 +11,7 @@ This document -- which is not a real notebook, but rather a short narrative -- c
     - [../../data/hamlet_network.csv](../../data/hamlet_network.csv) (a generic CSV file, more adventurous)
     - [https://dracor.org/shake/hamlet#downloads](https://dracor.org/shake/hamlet#downloads) (original dataset)
 - a network of correspondence by John Locke:
-    - [../../data/John_Locke_correspondence.gexf](John_Locke_correspondence.gexf) (a native Gephi file)
+    - [../../data/John_Locke_correspondence.gexf](../../data/John_Locke_correspondence.gexf) (a native Gephi file)
     - [https://github.com/claudewillan/JohnLocke](https://github.com/claudewillan/JohnLocke) (original dataset)
 - a network of textual similarities in a corpus of 100 English novels:
     - [../../data/English_novels_network.csv](../../data/English_novels_network.csv) (a CSV file to import to Gephi)
