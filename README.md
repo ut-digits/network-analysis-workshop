@@ -19,6 +19,8 @@ This repository contains teaching materials related to the workshop, including p
 - network visualisation (including Gephi)
 - network metrics for describing networks and nodes
 
+The workshop was organised with the support of the Estonian Doctoral School (Project “Cooperation between universities to promote doctoral studies” (2021-2027.4.04.24-0003) is co-funded by the European Union). The event was organised by DigiTS (Center for Digital Text Scholarship, funded by the European Union) operating at the University of Tartu Institute of Estonian and General Linguistics and the University of Tartu Institute of Foreign Languages and Cultures, Department of Classical Studies. 
+
 ## Readings
 
 See the workshop reading list in `readings.md`.
